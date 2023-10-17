@@ -1,1 +1,1 @@
-# lojaMaiorIdade18
+# lojaMaiorIdade
